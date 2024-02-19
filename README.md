@@ -1,4 +1,4 @@
-# **Descripció**
+# Tasca M2 T01
 ## Exercicis d'estructures de dades amb Python.
 
 **- Exercici 1**:
@@ -23,6 +23,8 @@ Quin és el rang d’aquesta llista?
 
 **- Exercici 4**:
 Crea un diccionari de la següent forma i respon a les preguntes:
+
+
 
 compra = { "Pomes" : {"Qty": 5, "€": 0.42}, "Peres" : {"Qty": 3, "€": 0.66} }
 Afegeix alguna fruita més
